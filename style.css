@@ -1,0 +1,233 @@
+
+header{
+    width: 100%;
+    height: 68px;
+    background-color: black;
+    /* position: fixed; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: baseline;
+    align-items: center;
+       
+    
+}
+
+
+.typeOfRocket{
+   width: 40vw;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 14px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+    
+}
+
+.updatesAndOthers{
+    width: 40vw;
+    color:#8b939b;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: baseline;
+    align-content: stretch;
+    align-items: center;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.middleCont{
+    height: 79vh;
+    width: 100%;
+
+}
+
+.middlePic{
+    height: 79vh;
+    width: 100%;
+
+}
+
+.transparentRow{
+    
+    background-color: rgba(0, 0, 0, 0.61);
+    /* opacity: 0.4; */
+    width: 100%;
+    height: 150px;
+    position: relative;
+    bottom: 150px;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+    align-content: stretch;
+    align-items: flex-start;
+
+}
+
+.starLink{
+    font-size: 30px;
+    color:white;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+button{
+    width: 200px;
+    height: 38px;
+
+}
+
+
+
+.threeLinksBox{
+    
+   width: 100%;   
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+
+        
+
+}
+
+
+
+.zeroOne{
+    
+    font-size: 12px;
+    color:#eee;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.zeroTwo{
+    
+    font-size: 12px;
+    color:#eee;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.zeroThree{
+    
+    font-size: 12px;
+    color: #eee;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.whiteContainer{
+    
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+    align-content: stretch;
+    align-items: flex-start;
+    font-family: 'Josefin Sans', sans-serif;
+   font-size: 18px;
+    color: #666;
+    
+    
+    
+
+}
+
+.lastThreeBoxes{
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+    /* align-content: stretch; */
+    height: 50vh;
+    
+
+}
+
+
+.lastBoxOne{
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.164);
+    
+}
+
+.lastBoxTwo{
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.164);;
+    
+
+}
+
+.lastBoxThree{
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.164);;
+    
+}
+
+.learnMore{
+
+ font-family: 'Josefin Sans', sans-serif;
+ font-size: 12px;
+ color: #3569a4
+
+}
+
+footer{
+    width: 100%;
+    height: 68px;
+    background-color: black;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+    align-items: center;
+    text-align: CENTER;
+  
+}
+
+.socialMedia{
+
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+    width: 40vw;
+    color: #ffffff;
+    
+
+}
+
+.copyright{
+    
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff5b;
+
+}
